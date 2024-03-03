@@ -5,17 +5,19 @@ body {
 /* Navigation Bar */
 
 #home {
-  background-color:  #7600bc;
+  background-color: #7600bc;
   padding-bottom: 1cm;
-  margin-left:-1cm;
-  margin-right:-1cm;
-  margin-top:-1cm;
+  margin-left: -1cm;
+  margin-right: -1cm;
+  margin-top: -1cm;
   padding-top: 2cm;
   padding-bottom: 2cm;
   height: 5mm;
-  position: sticky;
+  position: fixed;
   top: 0px;
- }
+  left: 0px;
+  right: 0px;
+}
 
 .topmenu {
   color: lightgray;
