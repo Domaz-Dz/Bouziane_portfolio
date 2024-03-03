@@ -13,7 +13,7 @@ body {
   padding-top: 2cm;
   padding-bottom: 2cm;
   height: 5mm;
-  position: fixed;
+  position: sticky;
   top: 0px;
  }
 
